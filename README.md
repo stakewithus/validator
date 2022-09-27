@@ -3,13 +3,13 @@ In this setup, the validator node hides behind it sentry nodes. These sentries a
 
 ## Network Diagram
 ![Diagram](/images/network_diagram.png)
----
+
 ## [Set up wireguard (1 validator + 3 sentries)](/docs/wireguard.md)
----
+
 ## [Harden OS, SSH](/docs/hardening.md)
----
+
 ## [Docker & AWS ECR](/docs/docker.md)
----
+
 ## [Setup TMKMS](/docs/tmkms.md)
----
+
 ## [Starting up project](/docs/startup.md)
