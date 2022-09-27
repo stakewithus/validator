@@ -4,14 +4,7 @@
 ## **Concepts**
 
 Wireguard is a kernel level virtual network interface that allows users to create a peer to peer VPN. The protocol uses ed25519 keys for encryption, and UDP as the session protocol.
-
-Reference Link: [https://upcloud.com/community/tutorials/get-started-wireguard-vpn/](https://upcloud.com/community/tutorials/get-started-wireguard-vpn/)  
-  
-[https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g](https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g)
-
-----------
-
-  
+ 
 
 **Peer Connection Info**
 
@@ -111,3 +104,9 @@ On the machine B
 `ping 1.2.3.3`
 
 If the ping passes through successfully, connection of wireguard is established throuugh these 2 machines
+
+---
+
+Reference Link: [https://upcloud.com/community/tutorials/get-started-wireguard-vpn/](https://upcloud.com/community/tutorials/get-started-wireguard-vpn/)  
+  
+[https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g](https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g)
